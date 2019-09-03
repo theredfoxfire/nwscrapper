@@ -13,6 +13,8 @@
     "babel-polyfill": "^6.26.0",
     "cheerio": "^1.0.0-rc.3",
     "nickjs": "^0.3.6",
-    "puppeteer": "^1.19.0"
+    "puppeteer": "^1.19.0",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.4"
   }
 }
